@@ -1,2 +1,2 @@
 # py_autotest_project_structure
-Project structure for autotesting on python
+Project structure for some SDK testing using python
